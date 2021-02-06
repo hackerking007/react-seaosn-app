@@ -1,3 +1,5 @@
+This is small react  app which helps to predict season according to your geolocation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
